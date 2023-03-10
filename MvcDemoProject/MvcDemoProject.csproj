@@ -123,10 +123,59 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="images\158151-blue-and-purple-background-1920x1200-for-windows-10-696x435.jpg" />
+    <Content Include="images\abstract-background-74-1920x1080.jpg" />
+    <Content Include="images\alexander-shatov-pejtzft6c1q-unsplash-2000x1500.jpg" />
+    <Content Include="images\background1.jpg" />
+    <Content Include="images\background2.jpg" />
+    <Content Include="images\background3.jpg" />
+    <Content Include="images\background4.jpg" />
+    <Content Include="images\background5.jpg" />
+    <Content Include="images\background6.jpg" />
+    <Content Include="images\background7.jpg" />
+    <Content Include="images\background8.jpg" />
+    <Content Include="images\balloons-neon-surface-shadow-61721-1920x1080-1020x574.jpg" />
+    <Content Include="images\ben-sweet-2lowvivhz-e-unsplash-1046x589.jpg" />
+    <Content Include="images\building-roof-backlight-139346-1280x720-1020x574.jpg" />
+    <Content Include="images\building-roof-backlight-139346-1280x720-1280x720.jpg" />
+    <Content Include="images\face-abstract-shiny-dark-96407-1280x720-696x391.jpg" />
+    <Content Include="images\face1.jpg" />
+    <Content Include="images\ian-dooley-dj7bwa-gwks-unsplash-2000x1333.jpg" />
+    <Content Include="images\images-1-360x360.jpg" />
+    <Content Include="images\images-4-474x474.jpg" />
+    <Content Include="images\images-97-614x360.jpg" />
+    <Content Include="images\img-20200315-wa0077-240x246.jpg" />
+    <Content Include="images\img-20210613-wa0026-600x450.jpeg" />
+    <Content Include="images\img-20210613-wa0032-720x539.jpg" />
+    <Content Include="images\img-20210613-wa0034-640x640.jpg" />
+    <Content Include="images\img-20210613-wa0042-331x499.jpg" />
+    <Content Include="images\img-20210620-wa0000-1-1280x1280.jpg" />
+    <Content Include="images\img-20210620-wa0000-122x122.jpg" />
+    <Content Include="images\img-20210620-wa0000-1280x1280.jpg" />
+    <Content Include="images\img-20210804-wa0018-510x282.jpg" />
+    <Content Include="images\img-20210804-wa0020-510x681.jpg" />
+    <Content Include="images\img-20210804-wa0025-510x235.jpg" />
+    <Content Include="images\img-20210804-wa0026-510x340.jpg" />
+    <Content Include="images\img-20210804-wa0028-1-1080x1080.jpg" />
+    <Content Include="images\img-20210804-wa0028-1080x1080.jpg" />
+    <Content Include="images\img-20220803-wa0075-240x314.jpeg" />
+    <Content Include="images\janko-ferlic-sfl-qonmy00-unsplash-1020x943.jpg" />
+    <Content Include="images\logo4.png" />
+    <Content Include="images\new-york-usa-night-skyscrapers-118354-1920x1080-1920x1080.jpg" />
+    <Content Include="images\photo-1505664194779-8beaceb93744-750x500.jpg" />
+    <Content Include="images\sebastian-mantel-m1qsy-iuf4c-unsplash-1020x1275.jpg" />
+    <Content Include="images\sebastian-mantel-m1qsy-iuf4c-unsplash-2000x2499.jpg" />
+    <Content Include="images\silhouette-hood-faceless-136170-1280x720-1280x720.jpg" />
+    <Content Include="images\up-stairway-down-9797-1280x720.jpg" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
+    <Content Include="images\.vs\images\FileContentIndex\0558e06c-4aad-4041-8457-b002324911e5.vsidx" />
+    <Content Include="images\.vs\images\FileContentIndex\read.lock" />
+    <Content Include="images\.vs\slnx.sqlite" />
+    <Content Include="images\.vs\VSWorkspaceState.json" />
+    <Content Include="images\hashes.json" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
     <Content Include="scripts\jquery-1.10.2.min.js" />
@@ -169,6 +218,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="images\.vs\images\FileContentIndex\merges\" />
+    <Folder Include="images\.vs\images\v17\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -1,7 +1,12 @@
 ﻿body {
     padding-top: 50px;
-    padding-bottom: 20px;
-    background-image: url("/images/Background.png");
+    padding-bottom: 0px;
+    background-image: url("/images/img-20210620-wa0000-1280x1280.jpg");
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size:inherit;
+    
 }
 
 /* Set padding to keep content from hitting the edges */
